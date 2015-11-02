@@ -21,3 +21,5 @@ https://channel9.msdn.com/Blogs/Windows-Azure/Deploying-a-predictive-model-as-a-
 https://channel9.msdn.com/Series/Machine-Learning/01-Wstp-do-tematyki-Machine-Learning
 https://channel9.msdn.com/Series/Machine-Learning/02-Machine-Learning-w-zastosowaniach-biznesowych
 https://channel9.msdn.com/Series/Machine-Learning/03-Machine-Learning-na-codzien
+
+https://channel9.msdn.com/Blogs/TechTalk/Episode-48-Machine-Learning-Algorithms
